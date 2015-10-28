@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "AnnotatorFinal",
-  "version": "1.0",
+  "name": "Annotator Test",
+  "version": "0.0.0.2",
   "web_accessible_resources": [
     "annotator.css",
     "annotator.js",
